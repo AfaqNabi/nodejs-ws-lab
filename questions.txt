@@ -1,0 +1,9 @@
+Question 1: What do you see in the browser? When you open another tab and perform a click/drag action, what happens?
+i see a mouse and when i open another tab the mouse moves on bothe tabs
+
+Question 2: What are some of the differences between TypeScript and JavaScript?
+TYpescript is a typesafe language in which the dev must defien which types
+a function or method is expecting and returing. this makes it easy to debug
+and makes code more readable 
+
+Question 3: Why is a web application bundler (Parcel, Webpack, Rollup, etc.) useful for modern web projects? What are some features that ParcelJS provides?
